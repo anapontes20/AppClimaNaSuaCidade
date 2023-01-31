@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "fc102aecfb61404b0d61b23a3252b21bc70a9e433c5f2bf892725148834c7695"
+    }
+  ],
+  "containerPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Clima.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData/Clima/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData/Clima/Build/Products",
+      "derivedDataPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData/Clima/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData/Clima/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/anapontes/Desktop/Apps angela/Qual o clima_/DerivedData/Clima/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "B36A49D4-F893-4C9D-B7A2-7C35CC9A1863",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "12e7cb7a6b7a83df26f7bcdbc8e1696f6375c7eaad65f2b81a72ae1ea60ec554"
+build_start_time: [1674853670, 462511062]
+build_end_time: [1674853670, 907228946]
+inputs:
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Clima/AppDelegate.swift": [1669795052, 0]
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Clima/Controller/WeatherViewController.swift": [1674669805, 804619312]
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Clima/SceneDelegate.swift": [1669795052, 0]
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Model/WeatherData.swift": [1672735726, 0]
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Model/WeatherManager.swift": [1674853670, 309500217]
+  "/Users/anapontes/Desktop/Apps angela/Qual o clima_/Model/WeatherModel.swift": [1674852879, 913975477]
